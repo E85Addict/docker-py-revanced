@@ -1,1 +1,530 @@
-{}
+{
+    "youtube": {
+        "app_version": "19.16.39",
+        "integrations_version": "v1.10.0",
+        "patches_version": "v4.9.0",
+        "cli_version": "v4.6.0",
+        "patches_json_version": "v4.9.0",
+        "ms_epoch_since_patched": 1717754806390,
+        "date_patched": "2024-06-07 10:06:46.389816+05:30",
+        "app_dump": {
+            "app_name": "youtube",
+            "app_version": "19.16.39",
+            "experiment": false,
+            "cli_dl": "https://github.com/E85Addict/revanced-cli",
+            "patches_dl": "https://github.com/E85Addict/revanced-patches",
+            "integrations_dl": "https://github.com/E85Addict/revanced-integrations",
+            "patches_json_dl": "https://github.com/E85Addict/revanced-patches",
+            "exclude_request": [],
+            "include_request": [],
+            "resource": {
+                "cli": {
+                    "file_name": "6b56f2fe3da2773a3fde1a076b8c76fa784e12f00d01db24dd8ccc8cdd25d16e.jar",
+                    "version": "v4.6.0"
+                },
+                "integrations": {
+                    "file_name": "4ceaf801dd059965216dd4a5833168fc46f121b112b6a0be0894dd3716988c19.apk",
+                    "version": "v1.10.0"
+                },
+                "patches": {
+                    "file_name": "b4b64cba37f57c4c491c5b1fdd1afd4331700831eb618bea75e08c9815d455d6.jar",
+                    "version": "v4.9.0"
+                },
+                "patches_json": {
+                    "file_name": "91f728ac3312d22f43eafef16f0044f980b26978980a587483805deb2abf2c00.json",
+                    "version": "v4.9.0"
+                }
+            },
+            "no_of_patches": 61,
+            "keystore_name": "revanced.keystore",
+            "archs_to_build": [],
+            "options_file": "options.json",
+            "download_file_name": "youtube.apk",
+            "download_dl": "https://www.apkmirror.com/wp-content/themes/APKMirror/download.php?id=6148753&key=4ca2b6532a94a08086bc114714db8e9262e907c3&forcebaseapk=true",
+            "download_source": "https://www.apkmirror.com/apk/google-inc/youtube/",
+            "package_name": "com.google.android.youtube",
+            "old_key": true,
+            "space_formatted": true
+        }
+    },
+    "youtube_music": {
+        "app_version": "7.03.52",
+        "integrations_version": "v1.10.0",
+        "patches_version": "v4.9.0",
+        "cli_version": "v4.6.0",
+        "patches_json_version": "v4.9.0",
+        "ms_epoch_since_patched": 1717754858574,
+        "date_patched": "2024-06-07 10:07:38.573997+05:30",
+        "app_dump": {
+            "app_name": "youtube_music",
+            "app_version": "7.03.52",
+            "experiment": false,
+            "cli_dl": "https://github.com/E85Addict/revanced-cli",
+            "patches_dl": "https://github.com/E85Addict/revanced-patches",
+            "integrations_dl": "https://github.com/E85Addict/revanced-integrations",
+            "patches_json_dl": "https://github.com/E85Addict/revanced-patches",
+            "exclude_request": [],
+            "include_request": [],
+            "resource": {
+                "cli": {
+                    "file_name": "6b56f2fe3da2773a3fde1a076b8c76fa784e12f00d01db24dd8ccc8cdd25d16e.jar",
+                    "version": "v4.6.0"
+                },
+                "integrations": {
+                    "file_name": "4ceaf801dd059965216dd4a5833168fc46f121b112b6a0be0894dd3716988c19.apk",
+                    "version": "v1.10.0"
+                },
+                "patches": {
+                    "file_name": "b4b64cba37f57c4c491c5b1fdd1afd4331700831eb618bea75e08c9815d455d6.jar",
+                    "version": "v4.9.0"
+                },
+                "patches_json": {
+                    "file_name": "91f728ac3312d22f43eafef16f0044f980b26978980a587483805deb2abf2c00.json",
+                    "version": "v4.9.0"
+                }
+            },
+            "no_of_patches": 11,
+            "keystore_name": "revanced.keystore",
+            "archs_to_build": [],
+            "options_file": "options.json",
+            "download_file_name": "youtube_music.apk",
+            "download_dl": "https://www.apkmirror.com/wp-content/themes/APKMirror/download.php?id=6346063&key=f2fa952fd6bd369d8e457e0bdf4998334b805e0f&forcebaseapk=true",
+            "download_source": "https://www.apkmirror.com/apk/google-inc/youtube-music/",
+            "package_name": "com.google.android.apps.youtube.music",
+            "old_key": true,
+            "space_formatted": true
+        }
+    },
+    "reddit": {
+        "app_version": "2024.17.0",
+        "integrations_version": "v1.10.0",
+        "patches_version": "v4.9.0",
+        "cli_version": "v4.6.0",
+        "patches_json_version": "v4.9.0",
+        "ms_epoch_since_patched": 1717754927546,
+        "date_patched": "2024-06-07 10:08:47.546092+05:30",
+        "app_dump": {
+            "app_name": "reddit",
+            "app_version": "2024.17.0",
+            "experiment": false,
+            "cli_dl": "https://github.com/E85Addict/revanced-cli",
+            "patches_dl": "https://github.com/E85Addict/revanced-patches",
+            "integrations_dl": "https://github.com/E85Addict/revanced-integrations",
+            "patches_json_dl": "https://github.com/E85Addict/revanced-patches",
+            "exclude_request": [],
+            "include_request": [],
+            "resource": {
+                "cli": {
+                    "file_name": "6b56f2fe3da2773a3fde1a076b8c76fa784e12f00d01db24dd8ccc8cdd25d16e.jar",
+                    "version": "v4.6.0"
+                },
+                "integrations": {
+                    "file_name": "4ceaf801dd059965216dd4a5833168fc46f121b112b6a0be0894dd3716988c19.apk",
+                    "version": "v1.10.0"
+                },
+                "patches": {
+                    "file_name": "b4b64cba37f57c4c491c5b1fdd1afd4331700831eb618bea75e08c9815d455d6.jar",
+                    "version": "v4.9.0"
+                },
+                "patches_json": {
+                    "file_name": "91f728ac3312d22f43eafef16f0044f980b26978980a587483805deb2abf2c00.json",
+                    "version": "v4.9.0"
+                }
+            },
+            "no_of_patches": 4,
+            "keystore_name": "revanced.keystore",
+            "archs_to_build": [],
+            "options_file": "options.json",
+            "download_file_name": "reddit.apk",
+            "download_dl": "https://www.apkmirror.com/wp-content/themes/APKMirror/download.php?id=6131308&key=2946cb562451dc52f4921cd7ac96f0f0dc4e936e&forcebaseapk=true",
+            "download_source": "https://www.apkmirror.com/apk/redditinc/reddit/",
+            "package_name": "com.reddit.frontpage",
+            "old_key": true,
+            "space_formatted": true
+        }
+    },
+    "twitter": {
+        "app_version": "10-44-0-release-0-310440000",
+        "integrations_version": "v1.10.0",
+        "patches_version": "v4.9.0",
+        "cli_version": "v4.6.0",
+        "patches_json_version": "v4.9.0",
+        "ms_epoch_since_patched": 1717754887613,
+        "date_patched": "2024-06-07 10:08:07.612634+05:30",
+        "app_dump": {
+            "app_name": "twitter",
+            "app_version": "10-44-0-release-0-310440000",
+            "experiment": false,
+            "cli_dl": "https://github.com/E85Addict/revanced-cli",
+            "patches_dl": "https://github.com/E85Addict/revanced-patches",
+            "integrations_dl": "https://github.com/E85Addict/revanced-integrations",
+            "patches_json_dl": "https://github.com/E85Addict/revanced-patches",
+            "exclude_request": [],
+            "include_request": [],
+            "resource": {
+                "cli": {
+                    "file_name": "6b56f2fe3da2773a3fde1a076b8c76fa784e12f00d01db24dd8ccc8cdd25d16e.jar",
+                    "version": "v4.6.0"
+                },
+                "integrations": {
+                    "file_name": "4ceaf801dd059965216dd4a5833168fc46f121b112b6a0be0894dd3716988c19.apk",
+                    "version": "v1.10.0"
+                },
+                "patches": {
+                    "file_name": "b4b64cba37f57c4c491c5b1fdd1afd4331700831eb618bea75e08c9815d455d6.jar",
+                    "version": "v4.9.0"
+                },
+                "patches_json": {
+                    "file_name": "91f728ac3312d22f43eafef16f0044f980b26978980a587483805deb2abf2c00.json",
+                    "version": "v4.9.0"
+                }
+            },
+            "no_of_patches": 7,
+            "keystore_name": "revanced.keystore",
+            "archs_to_build": [],
+            "options_file": "options.json",
+            "download_file_name": "twitter.apk",
+            "download_dl": "https://www.apkmirror.com/wp-content/themes/APKMirror/download.php?id=6362699&key=413aa6dd104122fe483911f4cf609c076f40f53b&forcebaseapk=true",
+            "download_source": "https://www.apkmirror.com/apk/x-corp/twitter/",
+            "package_name": "com.twitter.android",
+            "old_key": true,
+            "space_formatted": true
+        }
+    },
+    "tiktok": {
+        "app_version": "32.5.3",
+        "integrations_version": "v1.10.0",
+        "patches_version": "v4.9.0",
+        "cli_version": "v4.6.0",
+        "patches_json_version": "v4.9.0",
+        "ms_epoch_since_patched": 1717754976020,
+        "date_patched": "2024-06-07 10:09:36.020351+05:30",
+        "app_dump": {
+            "app_name": "tiktok",
+            "app_version": "32.5.3",
+            "experiment": false,
+            "cli_dl": "https://github.com/E85Addict/revanced-cli",
+            "patches_dl": "https://github.com/E85Addict/revanced-patches",
+            "integrations_dl": "https://github.com/E85Addict/revanced-integrations",
+            "patches_json_dl": "https://github.com/E85Addict/revanced-patches",
+            "exclude_request": [],
+            "include_request": [],
+            "resource": {
+                "cli": {
+                    "file_name": "6b56f2fe3da2773a3fde1a076b8c76fa784e12f00d01db24dd8ccc8cdd25d16e.jar",
+                    "version": "v4.6.0"
+                },
+                "integrations": {
+                    "file_name": "4ceaf801dd059965216dd4a5833168fc46f121b112b6a0be0894dd3716988c19.apk",
+                    "version": "v1.10.0"
+                },
+                "patches": {
+                    "file_name": "b4b64cba37f57c4c491c5b1fdd1afd4331700831eb618bea75e08c9815d455d6.jar",
+                    "version": "v4.9.0"
+                },
+                "patches_json": {
+                    "file_name": "91f728ac3312d22f43eafef16f0044f980b26978980a587483805deb2abf2c00.json",
+                    "version": "v4.9.0"
+                }
+            },
+            "no_of_patches": 9,
+            "keystore_name": "revanced.keystore",
+            "archs_to_build": [],
+            "options_file": "options.json",
+            "download_file_name": "tiktok.apk",
+            "download_dl": "https://www.apkmirror.com/wp-content/themes/APKMirror/download.php?id=5569781&key=f16d0649becc53a7316ba26310c93d3a94c97357&forcebaseapk=true",
+            "download_source": "https://www.apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/",
+            "package_name": "com.ss.android.ugc.trill",
+            "old_key": true,
+            "space_formatted": true
+        }
+    },
+    "spotify": {
+        "app_version": "latest",
+        "integrations_version": "v1.10.0",
+        "patches_version": "v4.9.0",
+        "cli_version": "v4.6.0",
+        "patches_json_version": "v4.9.0",
+        "ms_epoch_since_patched": 1717755054292,
+        "date_patched": "2024-06-07 10:10:54.292118+05:30",
+        "app_dump": {
+            "app_name": "spotify",
+            "app_version": "latest",
+            "experiment": false,
+            "cli_dl": "https://github.com/E85Addict/revanced-cli",
+            "patches_dl": "https://github.com/E85Addict/revanced-patches",
+            "integrations_dl": "https://github.com/E85Addict/revanced-integrations",
+            "patches_json_dl": "https://github.com/E85Addict/revanced-patches",
+            "exclude_request": [],
+            "include_request": [],
+            "resource": {
+                "cli": {
+                    "file_name": "6b56f2fe3da2773a3fde1a076b8c76fa784e12f00d01db24dd8ccc8cdd25d16e.jar",
+                    "version": "v4.6.0"
+                },
+                "integrations": {
+                    "file_name": "4ceaf801dd059965216dd4a5833168fc46f121b112b6a0be0894dd3716988c19.apk",
+                    "version": "v1.10.0"
+                },
+                "patches": {
+                    "file_name": "b4b64cba37f57c4c491c5b1fdd1afd4331700831eb618bea75e08c9815d455d6.jar",
+                    "version": "v4.9.0"
+                },
+                "patches_json": {
+                    "file_name": "91f728ac3312d22f43eafef16f0044f980b26978980a587483805deb2abf2c00.json",
+                    "version": "v4.9.0"
+                }
+            },
+            "no_of_patches": 2,
+            "keystore_name": "revanced.keystore",
+            "archs_to_build": [],
+            "options_file": "options.json",
+            "download_file_name": "spotify.apk",
+            "download_dl": "https://dw.uptodown.com/dwn/CnB5yIq8CsqwuMC2FPSXGuScwFvBnrJDAYVpk1WuAlUTMmMNMtUZzD-BcjbAjXCHWD3DeEUP-6PGxdkZpWUz70DukAP1aZE9PYn6zjOMAe-hwSlsVT6ZG6wQZwssX8Pb/juwcMCK6MEQkFCNllmAQpDXuwzivru7A3gQsKQEZa5AMmWVVEaX-sVpx2UPIjFLNH-SWCTHlpl6MaERi2CnOSxzPV-_inA1R_MqrrtA_r1MTDKgUsX43MEdNitPwuu5_/VDZB-nyWgmMsUw5jIoDxE8SkMEgxBsZdLnXPmGlAHomNhTUvIhU1OrDxEatUPx4biH4mO7cp6VD9ZNG0XGXgyQ9JtYQlFdrqwEw3Qah4f0I=/",
+            "download_source": "https://spotify.en.uptodown.com/android",
+            "package_name": "com.spotify.music",
+            "old_key": true,
+            "space_formatted": true
+        }
+    },
+    "hex-editor": {
+        "app_version": "2-8-5",
+        "integrations_version": "v1.10.0",
+        "patches_version": "v4.9.0",
+        "cli_version": "v4.6.0",
+        "patches_json_version": "v4.9.0",
+        "ms_epoch_since_patched": 1717755117915,
+        "date_patched": "2024-06-07 10:11:57.915373+05:30",
+        "app_dump": {
+            "app_name": "hex-editor",
+            "app_version": "2-8-5",
+            "experiment": false,
+            "cli_dl": "https://github.com/E85Addict/revanced-cli",
+            "patches_dl": "https://github.com/E85Addict/revanced-patches",
+            "integrations_dl": "https://github.com/E85Addict/revanced-integrations",
+            "patches_json_dl": "https://github.com/E85Addict/revanced-patches",
+            "exclude_request": [],
+            "include_request": [],
+            "resource": {
+                "cli": {
+                    "file_name": "6b56f2fe3da2773a3fde1a076b8c76fa784e12f00d01db24dd8ccc8cdd25d16e.jar",
+                    "version": "v4.6.0"
+                },
+                "integrations": {
+                    "file_name": "4ceaf801dd059965216dd4a5833168fc46f121b112b6a0be0894dd3716988c19.apk",
+                    "version": "v1.10.0"
+                },
+                "patches": {
+                    "file_name": "b4b64cba37f57c4c491c5b1fdd1afd4331700831eb618bea75e08c9815d455d6.jar",
+                    "version": "v4.9.0"
+                },
+                "patches_json": {
+                    "file_name": "91f728ac3312d22f43eafef16f0044f980b26978980a587483805deb2abf2c00.json",
+                    "version": "v4.9.0"
+                }
+            },
+            "no_of_patches": 1,
+            "keystore_name": "revanced.keystore",
+            "archs_to_build": [],
+            "options_file": "options.json",
+            "download_file_name": "hex-editor.apk",
+            "download_dl": "https://d.apkpure.net/b/APK/com.myprog.hexedit?versionCode=122",
+            "download_source": "https://apkpure.net/-/com.myprog.hexedit",
+            "package_name": "com.myprog.hexedit",
+            "old_key": true,
+            "space_formatted": true
+        }
+    },
+    "my-expenses": {
+        "app_version": "3.4.9",
+        "integrations_version": "v1.10.0",
+        "patches_version": "v4.9.0",
+        "cli_version": "v4.6.0",
+        "patches_json_version": "v4.9.0",
+        "ms_epoch_since_patched": 1717755136654,
+        "date_patched": "2024-06-07 10:12:16.653994+05:30",
+        "app_dump": {
+            "app_name": "my-expenses",
+            "app_version": "3.4.9",
+            "experiment": false,
+            "cli_dl": "https://github.com/E85Addict/revanced-cli",
+            "patches_dl": "https://github.com/E85Addict/revanced-patches",
+            "integrations_dl": "https://github.com/E85Addict/revanced-integrations",
+            "patches_json_dl": "https://github.com/E85Addict/revanced-patches",
+            "exclude_request": [],
+            "include_request": [],
+            "resource": {
+                "cli": {
+                    "file_name": "6b56f2fe3da2773a3fde1a076b8c76fa784e12f00d01db24dd8ccc8cdd25d16e.jar",
+                    "version": "v4.6.0"
+                },
+                "integrations": {
+                    "file_name": "4ceaf801dd059965216dd4a5833168fc46f121b112b6a0be0894dd3716988c19.apk",
+                    "version": "v1.10.0"
+                },
+                "patches": {
+                    "file_name": "b4b64cba37f57c4c491c5b1fdd1afd4331700831eb618bea75e08c9815d455d6.jar",
+                    "version": "v4.9.0"
+                },
+                "patches_json": {
+                    "file_name": "91f728ac3312d22f43eafef16f0044f980b26978980a587483805deb2abf2c00.json",
+                    "version": "v4.9.0"
+                }
+            },
+            "no_of_patches": 1,
+            "keystore_name": "revanced.keystore",
+            "archs_to_build": [],
+            "options_file": "options.json",
+            "download_file_name": "my-expenses.apk",
+            "download_dl": "https://dw.uptodown.com/dwn/DFglUhzBk5r6AT9tAt8mJoKIpLTO9yGvJ31NV7akbtmBJK5c64vtlhkq1EpjYF3Xe7TYZo_J7hZgzjbHfPHRe69b1meI7vwE8SlvvVD2wOAsa3svwdpEiJCDD5N7nJJk/ojrbwiQ55-jB39mAjYY5tW7cDVWUUgJhWDf-7yQJtxCs1l4nc9jdrSdDWHYi1mL87XBaNpPpY_OVgAuG2Ax7MbsztxGJviWkzSj9cthTxJjdQJs6CIZS7SBebAZZQP5i/Z6yO2Bhdle0ikdXy8tzyBABj3SNHOZl1hbkOAnMBnvkN0I5kfhPpVjxvtGB6-0OtUCSGKZEzpJGoJipb8d54xATS9n9zomz9ywU3kHbueuk=/",
+            "download_source": "https://my-expenses.en.uptodown.com/android",
+            "package_name": "org.totschnig.myexpenses",
+            "old_key": true,
+            "space_formatted": true
+        }
+    },
+    "expensemanager": {
+        "app_version": "latest",
+        "integrations_version": "v1.10.0",
+        "patches_version": "v4.9.0",
+        "cli_version": "v4.6.0",
+        "patches_json_version": "v4.9.0",
+        "ms_epoch_since_patched": 1717755153602,
+        "date_patched": "2024-06-07 10:12:33.601855+05:30",
+        "app_dump": {
+            "app_name": "expensemanager",
+            "app_version": "latest",
+            "experiment": false,
+            "cli_dl": "https://github.com/E85Addict/revanced-cli",
+            "patches_dl": "https://github.com/E85Addict/revanced-patches",
+            "integrations_dl": "https://github.com/E85Addict/revanced-integrations",
+            "patches_json_dl": "https://github.com/E85Addict/revanced-patches",
+            "exclude_request": [],
+            "include_request": [],
+            "resource": {
+                "cli": {
+                    "file_name": "6b56f2fe3da2773a3fde1a076b8c76fa784e12f00d01db24dd8ccc8cdd25d16e.jar",
+                    "version": "v4.6.0"
+                },
+                "integrations": {
+                    "file_name": "4ceaf801dd059965216dd4a5833168fc46f121b112b6a0be0894dd3716988c19.apk",
+                    "version": "v1.10.0"
+                },
+                "patches": {
+                    "file_name": "b4b64cba37f57c4c491c5b1fdd1afd4331700831eb618bea75e08c9815d455d6.jar",
+                    "version": "v4.9.0"
+                },
+                "patches_json": {
+                    "file_name": "91f728ac3312d22f43eafef16f0044f980b26978980a587483805deb2abf2c00.json",
+                    "version": "v4.9.0"
+                }
+            },
+            "no_of_patches": 1,
+            "keystore_name": "revanced.keystore",
+            "archs_to_build": [],
+            "options_file": "options.json",
+            "download_file_name": "expensemanager.apk",
+            "download_dl": "https://dw.uptodown.com/dwn/DFglUhzBk5r6AT9tAt8mJoKIpLTO9yGvJ31NV7akbtlgD-SZLUvjHU9DBbEHnKB95y2N98zzvzQHHcETeMwezMQGmJkPnMRvT4jHJIsnfoVop5zCr-FpFLuwEtDuvrl-/S9ZM3CIyoqMbno05L9sMrJzzKMMs8eK8ioyiDcFxbSkayl-RA5PFBxtVKepF_H6oK5vKcTq-P2IqC1PSBawzuuOII8YHR6JD-snwDb6rw3kM2-zM9ab4An9-7JXnw5zT/kow8gyafvPfUy_f1C3b4t-M4zOss5LaTIWo3xpJsibjRwo-PwtKt37Xh3pRuqMJyyJcloGQv3UUumrdigM6IXjJnjrnVnWxR-_luAHCgXGwpw8I8JNdeT3S_zF0zaXVS/",
+            "download_source": "https://bishinews-expense-manager.en.uptodown.com/android",
+            "package_name": "com.ithebk.expensemanager",
+            "old_key": true,
+            "space_formatted": true
+        }
+    },
+    "warnwetter": {
+        "app_version": "4.2.2",
+        "integrations_version": "v1.10.0",
+        "patches_version": "v4.9.0",
+        "cli_version": "v4.6.0",
+        "patches_json_version": "v4.9.0",
+        "ms_epoch_since_patched": 1717755036192,
+        "date_patched": "2024-06-07 10:10:36.191900+05:30",
+        "app_dump": {
+            "app_name": "warnwetter",
+            "app_version": "4.2.2",
+            "experiment": false,
+            "cli_dl": "https://github.com/E85Addict/revanced-cli",
+            "patches_dl": "https://github.com/E85Addict/revanced-patches",
+            "integrations_dl": "https://github.com/E85Addict/revanced-integrations",
+            "patches_json_dl": "https://github.com/E85Addict/revanced-patches",
+            "exclude_request": [],
+            "include_request": [],
+            "resource": {
+                "cli": {
+                    "file_name": "6b56f2fe3da2773a3fde1a076b8c76fa784e12f00d01db24dd8ccc8cdd25d16e.jar",
+                    "version": "v4.6.0"
+                },
+                "integrations": {
+                    "file_name": "4ceaf801dd059965216dd4a5833168fc46f121b112b6a0be0894dd3716988c19.apk",
+                    "version": "v1.10.0"
+                },
+                "patches": {
+                    "file_name": "b4b64cba37f57c4c491c5b1fdd1afd4331700831eb618bea75e08c9815d455d6.jar",
+                    "version": "v4.9.0"
+                },
+                "patches_json": {
+                    "file_name": "91f728ac3312d22f43eafef16f0044f980b26978980a587483805deb2abf2c00.json",
+                    "version": "v4.9.0"
+                }
+            },
+            "no_of_patches": 1,
+            "keystore_name": "revanced.keystore",
+            "archs_to_build": [],
+            "options_file": "options.json",
+            "download_file_name": "warnwetter.apk",
+            "download_dl": "https://www.apkmirror.com/wp-content/themes/APKMirror/download.php?id=5186301&key=170ff955b81e271a5ba3a862764fee48c1ba675b&forcebaseapk=true",
+            "download_source": "https://www.apkmirror.com/apk/deutscher-wetterdienst/warnwetter/",
+            "package_name": "de.dwd.warnapp",
+            "old_key": true,
+            "space_formatted": true
+        }
+    },
+    "nyx-music-player": {
+        "app_version": "2.2.7",
+        "integrations_version": "v1.10.0",
+        "patches_version": "v4.9.0",
+        "cli_version": "v4.6.0",
+        "patches_json_version": "v4.9.0",
+        "ms_epoch_since_patched": 1717755097063,
+        "date_patched": "2024-06-07 10:11:37.062722+05:30",
+        "app_dump": {
+            "app_name": "nyx-music-player",
+            "app_version": "2.2.7",
+            "experiment": false,
+            "cli_dl": "https://github.com/E85Addict/revanced-cli",
+            "patches_dl": "https://github.com/E85Addict/revanced-patches",
+            "integrations_dl": "https://github.com/E85Addict/revanced-integrations",
+            "patches_json_dl": "https://github.com/E85Addict/revanced-patches",
+            "exclude_request": [],
+            "include_request": [],
+            "resource": {
+                "cli": {
+                    "file_name": "6b56f2fe3da2773a3fde1a076b8c76fa784e12f00d01db24dd8ccc8cdd25d16e.jar",
+                    "version": "v4.6.0"
+                },
+                "integrations": {
+                    "file_name": "4ceaf801dd059965216dd4a5833168fc46f121b112b6a0be0894dd3716988c19.apk",
+                    "version": "v1.10.0"
+                },
+                "patches": {
+                    "file_name": "b4b64cba37f57c4c491c5b1fdd1afd4331700831eb618bea75e08c9815d455d6.jar",
+                    "version": "v4.9.0"
+                },
+                "patches_json": {
+                    "file_name": "91f728ac3312d22f43eafef16f0044f980b26978980a587483805deb2abf2c00.json",
+                    "version": "v4.9.0"
+                }
+            },
+            "no_of_patches": 1,
+            "keystore_name": "revanced.keystore",
+            "archs_to_build": [],
+            "options_file": "options.json",
+            "download_file_name": "nyx-music-player.apk",
+            "download_dl": "https://www.apkmirror.com/wp-content/themes/APKMirror/download.php?id=4738221&key=96b4b257b73644fe87780a24d5cfc785068451aa&forcebaseapk=true",
+            "download_source": "https://www.apkmirror.com/apk/awedea/nyx-music-player/",
+            "package_name": "com.awedea.nyx",
+            "old_key": true,
+            "space_formatted": true
+        }
+    }
+}
